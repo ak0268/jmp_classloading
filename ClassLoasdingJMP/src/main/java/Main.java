@@ -17,10 +17,6 @@ public class Main {
         showMainMenu();
     }
 
-    public void configureApplication() {
-
-    }
-
     public static void execute() {
         loadedImplementation.print();
     }
